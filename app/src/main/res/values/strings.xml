@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeblateDemo</string>
+    <string name="first_world">First world</string>
 </resources>
