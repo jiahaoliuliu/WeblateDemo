@@ -3,4 +3,5 @@
     <string name="app_name">WeblateDemo</string>
 <string name="first_world">Primera palabra</string>
 <string name="second_world">Segundo mundo</string>
+<string name="partial_translation">Navegar con Google Maps</string>
 </resources>
