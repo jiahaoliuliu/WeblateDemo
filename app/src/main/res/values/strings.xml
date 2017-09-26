@@ -3,4 +3,5 @@
     <string name="first_world">First world</string>
     <string name="second_world">Second world</string>
     <string name="partial_translation">Navigate with Google Maps</string>
+    <string name="formatted_string">$1%d computer</string>
 </resources>
